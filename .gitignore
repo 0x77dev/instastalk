@@ -5,10 +5,9 @@
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
-
 node_modules
 yarn-error.log
-
 .DS_Store
 result.json
 .env
+.eslintcache
